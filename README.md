@@ -7,8 +7,8 @@
 ## 📂 [Учебное портфолио](https://github.com/EgorTatarnikov/GameDev/tree/main/GameDev_Learning_Portfolio) 
 
 Содержит сертификаты о прохождении обучения:
-- University of Colorado Colorado Springs по специализации C# Programming for Unity Game Development
-- California Institute of the Arts по специализации Game Design: Art and Concepts
+- **University of Colorado Colorado Springs** по специализации **C# Programming for Unity Game Development**
+- **California Institute of the Arts** по специализации **Game Design: Art and Concepts**
 
 ---
 
@@ -62,8 +62,8 @@
 
 ## 📊 [2048 Excel](https://github.com/EgorTatarnikov/GameDev/blob/main/2048%20Excel.xlsm)
 
-Классическая игра 2048, реализованная в Microsoft Excel.<br>
-Проект демонстрирует нестандартный подход к разработке игр с использованием VBA и макросов.
+Классическая игра 2048, реализованная в **Microsoft Excel**.<br>
+Проект демонстрирует нестандартный подход к разработке игр с использованием **VBA** и макросов.
 
 <img src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/2048%20Screenshot.png" 
      height="150" 
@@ -76,3 +76,10 @@
 
 Настольная ролевая игра для двух игроков в сеттинге средневековья и драконов.<br>
 Игроки бросают кубик, собирают монеты и жизни, улучшают оружие и в финале сражаются друг с другом или с боссами.
+
+
+---
+
+## 🛠 Стек технологий
+
+Unity · C# · Game Design · Game Development · Excel VBA
