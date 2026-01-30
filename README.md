@@ -65,6 +65,11 @@
 Классическая игра 2048, реализованная в Microsoft Excel.<br>
 Проект демонстрирует нестандартный подход к разработке игр с использованием VBA и макросов.
 
+<img src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/2048%20Screenshot.png" 
+     height="150" 
+     style="vertical-align: middle; margin-right: 4px;" 
+     alt="screenshot">
+     
 ---
 
 ## 🏰⚔️🐉 [The Dragon Valley](https://github.com/EgorTatarnikov/GameDev/blob/main/The%20Dragon%20Valley.pdf)
