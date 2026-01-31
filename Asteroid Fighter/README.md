@@ -13,10 +13,6 @@
      width="180" height="320" 
      style="vertical-align: middle; margin-right: 4px;" 
      alt="screenshot"> 
-<img src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/Asteroid%20Fighter/Screenshots/AsteroidFighter2.png" 
-     width="180" height="320" 
-     style="vertical-align: middle; margin-right: 4px;" 
-     alt="screenshot"> 
 <img src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/Asteroid%20Fighter/Screenshots/AsteroidFighter3.png" 
      width="180" height="320" 
      style="vertical-align: middle; margin-right: 4px;" 
