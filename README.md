@@ -12,7 +12,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/Asteroid%20Fighter/Assets/Sprites/AsteroidFighter_v2_r192.svg" width="24" height="24" alt="wt badge"> [Asteroid Fighter](https://github.com/EgorTatarnikov/GameDev/tree/main/Asteroid%20Fighter)
+## <img align="center" src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/Asteroid%20Fighter/Assets/Sprites/AsteroidFighter_v2_r192.svg" width="24" alt="wt badge"> [Asteroid Fighter](https://github.com/EgorTatarnikov/GameDev/tree/main/Asteroid%20Fighter)
 
 **[Скачать игру в RuStore](https://www.rustore.ru/catalog/app/com.EgorTatarnikov.AsteroidFighter)**
 
@@ -22,25 +22,25 @@
 Платформа: Unity/Android
 
 <img src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/Asteroid%20Fighter/Screenshots/AsteroidFighter1.png" 
-     width="135" height="240" 
+     width="135"
      style="vertical-align: middle; margin-right: 4px;" 
      alt="screenshot"> 
 <img src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/Asteroid%20Fighter/Screenshots/AsteroidFighter4.png" 
-     width="135" height="240"
+     width="135"
      style="vertical-align: middle; margin-right: 4px;" 
      alt="screenshot"> 
 <img src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/Asteroid%20Fighter/Screenshots/AsteroidFighter5.png" 
-     width="135" height="240"
+     width="135"
      style="vertical-align: middle; margin-right: 4px;" 
      alt="screenshot"> 
 <img src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/Asteroid%20Fighter/Screenshots/AsteroidFighter6.png" 
-     width="135" height="240"
+     width="135"
      style="vertical-align: middle; margin-right: 4px;" 
      alt="screenshot">
 
 ---
 
-## <img src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/GameBall/Assets/Sprites/GameBall_r205.svg" width="24" height="24" alt="wt badge"> [Game Ball](https://github.com/EgorTatarnikov/GameDev/tree/main/GameBall)
+## <img align="center" src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/GameBall/Assets/Sprites/GameBall_r205.svg" width="24" alt="wt badge"> [Game Ball](https://github.com/EgorTatarnikov/GameDev/tree/main/GameBall)
 
 **[Скачать игру в RuStore](https://www.rustore.ru/catalog/app/com.EgorTatarnikov.GameBall)**
 
@@ -50,11 +50,11 @@
 Платформа: Unity/Android
 
 <img src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/GameBall/Screenshots/GameBall02.png" 
-     width="240" height="135" 
+     width="240"
      style="vertical-align: middle; margin-right: 4px;" 
      alt="screenshot">
 <img src="https://raw.githubusercontent.com/EgorTatarnikov/GameDev/main/GameBall/Screenshots/GameBall01.png" 
-     width="240" height="135" 
+     width="240"
      style="vertical-align: middle; margin-right: 4px;" 
      alt="screenshot">
      
